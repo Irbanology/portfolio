@@ -197,7 +197,7 @@ I'm Irban, a backend-focused developer and aspiring Cloud & DevOps engineer. I b
 
       <footer className="border-t border-white/5 px-5 py-8">
         <div className="mx-auto flex max-w-6xl flex-col gap-3 text-sm text-zinc-600 sm:flex-row sm:items-center sm:justify-between">
-          <span>© {new Date().getFullYear()} Irban. Built with React.</span>
+          <span>© {new Date().getFullYear()} Irban.</span>
           <span className="font-mono">20 · building in public</span>
         </div>
       </footer>
